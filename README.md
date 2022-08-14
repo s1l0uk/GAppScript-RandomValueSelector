@@ -7,3 +7,6 @@ usecase we create an "Iron Chef" to decide how and what Chefs will be
 cooking!
 
 Could have other Applications, who doesn't need a bit of randomness?!
+
+A write up can be [here](https://devsecopz.blogspot.com/2022/08/abusing-google-app-services-for-fun-and.html)!
+
